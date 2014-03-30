@@ -3,7 +3,7 @@
 #Bash script to download/compile Wallop
 #Date: 2014/03/30
 #By: Matt Briggs
-#For: Ubuntu 12.04
+#For: Ubuntu 12.04 LTS Server
 ####
 
 #directory
