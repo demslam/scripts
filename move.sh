@@ -7,12 +7,12 @@
 ####
 
 #source folder
-sour=/mnt/500/downloads/movie/
+sour=#source folder
 
 #destination folder
-dest=/media/47d6f2e9-2c91-440e-bfd7-27598d72b3cd/upload/movie/
+dest=#destination folder
 
-#add file extension to delete
+#add file extension to delete seperate via space * = wild
 delete=( *.par2 *.txt *.nfo *.nzb *sample* )
 
 #rsync copy files over
