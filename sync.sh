@@ -1,5 +1,11 @@
 #/bin/bash
 
+####
+#By: Matt (Dem) Briggs
+#Date: 2018/10/23
+#A script that perfomance rsync good to use for a cron job
+####
+
 srce='#from location'
 dest='#to location'
 cmd="rsync -vrpogtmh --info=progress2 --delete --exclude='.*'"
