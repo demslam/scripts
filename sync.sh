@@ -6,12 +6,11 @@
 #A script that perfomance rsync good to use for a cron job
 ####
 
-srce='#from location'
+srce='#from location "end with /"'
 dest='#to location'
 cmd="rsync -vrpogtmh --info=progress2 --delete --exclude='.*'"
 
 ###
-#
 # rsync options
 # v - verbose
 # r - recurisve
