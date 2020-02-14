@@ -1,8 +1,10 @@
 ##/bin/bash
 
-
-
-
+####
+#By: Matt (Dem) Briggs
+#Date: 2020/02/14
+#A script that use HDsentinel to generate individual hdsentinel reports into a folder
+####
 
 list='hd-list.txt' #temp file to parse through
 folder='/opt/html/' #output folder for reports
