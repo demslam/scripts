@@ -1,6 +1,11 @@
 #/bin/bash
 
+####
+#By: Matt (Dem) Briggs
+#Date: 2020/03/27
+#A simple bash script to start nodemcu-pyflasher
 #https://github.com/marcelstoer/nodemcu-pyflasher
+####
 
 #directory of nodemcu-pyflasher
 dir="~/Downloads/nodemcu-pyflasher"
