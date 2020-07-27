@@ -5,6 +5,7 @@
 #Date: 2020/03/27
 #A simple bash script to start nodemcu-pyflasher
 #https://github.com/marcelstoer/nodemcu-pyflasher
+# pip3 install -U -f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-20.04 wxPython
 ####
 
 #directory of nodemcu-pyflasher
